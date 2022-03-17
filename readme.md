@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-<title>Grant Richardet</title>
+
 </head>
 <body>
 <h1>Hi My name is Grant</h1>
