@@ -27,9 +27,7 @@ Reading is easier, too, in the new Reading view. You can collapse parts of the d
 
 <img src="Atlas.jpg">
 
-...
-'part2.md'
-...
+
 
 </body>
 </html>
