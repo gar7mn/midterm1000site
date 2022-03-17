@@ -16,6 +16,6 @@ Reading is easier, too, in the new Reading view. You can collapse parts of the d
 </head>
 <body>
 
-
+<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
 </body>
 </html>
