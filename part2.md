@@ -16,6 +16,8 @@ Reading is easier, too, in the new Reading view. You can collapse parts of the d
 </head>
 <body>
 
-<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
+<a href="https://github.com/gar7mn/midterm1000site/blob/main/readme.md/">Home</a>
+<a href="https://github.com/gar7mn/midterm1000site/blob/main/readme.md/">Page3</a>
+
 </body>
 </html>
