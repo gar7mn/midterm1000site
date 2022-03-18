@@ -17,7 +17,11 @@ Reading is easier, too, in the new Reading view. You can collapse parts of the d
 <body>
 
 <a href="https://github.com/gar7mn/midterm1000site/blob/main/readme.md/">Home</a>
-<a href="https://github.com/gar7mn/midterm1000site/blob/main/readme.md/">Page3</a>
-
+<p></p>
+<a href="https://github.com/gar7mn/midterm1000site/blob/main/part3.md">Page3</a>
+<p></p>
+<a href="https://github.com/gar7mn/midterm1000site/blob/main/part3.md">Page4</a>
+<p></p>
+<a href="https://github.com/gar7mn/midterm1000site/blob/main/part3.md">Page5</a>
 </body>
 </html>
