@@ -19,6 +19,6 @@
 <p></p>
 <a href="https://github.com/gar7mn/midterm1000site/blob/main/part%204.md/">Page 4</a>
 <p></p>
-<a href="https://www.w3schools.com/">Page 5</a>
+<a href="https://github.com/gar7mn/midterm1000site/blob/main/page5.md">Page 5</a>
 </body>
 </html>
