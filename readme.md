@@ -25,6 +25,6 @@
 <p></p>
 <a href="https://github.com/gar7mn/midterm1000site/blob/main/part%204.md/">Page4</a>
 <p></p>
-<a href="https://github.com/gar7mn/midterm1000site/blob/main/part%204.md/">Page5</a>
+<a href="https://github.com/gar7mn/midterm1000site/blob/main/page5.md/">Page5</a>
 </body>
 </html>
