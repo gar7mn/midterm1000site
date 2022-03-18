@@ -12,5 +12,11 @@
     else console.log(i);
 }</p>
 <a href="https://www.bostondynamics.com//">Visit Boston dynamics</a>
+<p></p>
+<a href="https://www.w3schools.com/">Home</a>
+<p></p>
+<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
+<p></p>
+<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
 </body>
 </html>
