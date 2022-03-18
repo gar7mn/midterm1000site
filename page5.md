@@ -12,5 +12,7 @@ Save time in Word with new buttons that show up where you need them. To change t
 Reading is easier, too, in the new Reading view. You can collapse parts of the document and focus on the text you want. If you need to stop reading before you reach the end, Word remembers where you left off - even on another device.
 
 </p>
+https://github.com/gar7mn/midterm1000site/blob/main/readme.md
+<a href="https://github.com/gar7mn/midterm1000site/blob/main/readme.md/">Home</a>
 </body>
 </html>
