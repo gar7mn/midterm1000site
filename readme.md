@@ -21,6 +21,6 @@
 
 <a href ="https://github.com/gar7mn/midterm1000site/blob/main/part2.md"/>page2</a>
 <p></p>
-<a href="https://github.com/gar7mn/midterm1000site/blob/main/readme.md/">Page3</a>
+<a href="https://github.com/gar7mn/midterm1000site/blob/main/part3.md/">Page3</a>
 </body>
 </html>
